@@ -10,7 +10,7 @@ Data Analytics, Coursera
 Data Analytics, Code Academy
 
 ### Work Experience
-Data Analytics Intern @ Nordstrom (_2024_)
+Data Analytics Intern @ Seattle (_2024_)
 
 -Develops and maintains complex SQL in DBeaver and Snowflake to extract, transform, and load data from various sources into the organization's data warehouse
 
@@ -21,7 +21,7 @@ Pediatric Specialist @Seattle Childrens Hospital (_June 2022-2024_)
 -Provide specialized trestment to adolecents experincing acute, and minor diabilities
 -Experience with ED, trauma informed care plans, psychological assesments
 
-Psychology Assistant @ Lawrence Public Schools (_2020-2021_)
+Psychometric Assistant @ Lawrence Public Schools (_2020-2021_)
 
 -Provide 1:1 care plans for students K-5
 -Communicate with parents and caregivers  on behalf of schools psychologist
